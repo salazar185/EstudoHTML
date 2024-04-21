@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Fundamentos</title>
+    </head>
+    <body style="padding-bottom: 1000px">
+        <!-- TÍTULOS -->
+        <h1>Título importante AQUI</h1>
+        <h3>Novo título AQUI</h3>
+
+        <!-- PARÁGRAFOS -->
+        <p>Insira um texto (parágrafo) AQUI</p>
+        <p>Novo parágrafo AQUI</p>
+
+        <!-- TAGS SEM CONTEÚDO -->
+        <p>Parágrafo exemplo TAGS SEM CONTEÚDO</p>
+        <br>
+        <p>Primeiro parágrafo</p>
+        <hr>
+        <p>Segundo parágrafo</p>
+
+        <!-- COMENTÁRIOS -->
+        <!-- COMENTÁRIOS SÃO FEITOS ASSIM --> 
+
+        <!-- ATRIBUTOS -->
+        <p>Clique <a href="https://Google.com.br">AQUI</a> para acessar o Google</p>
+        <br>
+
+        <!-- ABRIR NOVA ABA -->
+        <a href="https://Google.com.br" target="_blank">Google em nova ABA</a>
+        <br>
+
+        <!-- IMAGENS -->
+        <img src="img/city.jpg"/>
+
+        <!-- ATRIBUTO ALT -->
+        <img src="img/nature.jpg" alt="Noite na floresta"/>
+
+        <!-- LISTAS NÃO ORDENADAS -->
+        <ul>
+            <li>Carros</li>
+            <li>Navios</li>
+            <li>Submarinos</li>
+        </ul>
+
+        <!-- LISTAS ORDENADAS -->
+        <ol>
+            <li>Lavar o carro</li>
+            <li>Estudar</li>
+            <li>Limpar a casa</li>
+        </ol>
+
+        <!-- TABELAS -->
+        <table>
+            <tr>
+                <th>ID:</th>
+                <th>Nome:</th>
+                <th>Profissão:</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Felipe</td>
+                <td>Técnico em Eletrônica</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Julia</td>
+                <td>Professora</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Klebinho</td>
+                <td>Peão</td>
+            </tr>
+        </table>
+
+        <!-- TAG DIV -->
+        <div>
+            <h2>Título da seção</h2>
+            <p>Descrição da seção, um texto relacionado a este assunto</p>
+            <a href="#">Saber Mais</a>
+        </div>
+        <div>
+            <h2>Sobre o Felipe</h2>
+            <p>Nome Completo: Felipe Salazar</p>
+        </div>
+    </body>
+</html>
